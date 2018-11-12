@@ -3,6 +3,7 @@ Welcome to r1h4rd5_pr3fl0p_b0t (888 poker)! An online poker bot, which analyzes 
 
 The bot is limited to:
 * Pacific Poker (888) software;
+* No Limit Hold'em;
 * 6-max tables;
 * Bottom-right sitting position;
 * Maximized poker window(-s, if all are cascaded on top, and maximized);
