@@ -6,7 +6,7 @@ The bot is limited to:
 * 6-max tables;
 * Bottom-right sitting position;
 * Maximized poker window(-s, if all are cascaded on top, and maximized);
-* First "deck" from the settigs of 888.
+* Third "deck" (fully colorful) from the settigs of 888.
 
 Update history:
 * v1.0 - prototype version w/ TakeScreenshot, ViewHolecards, NameOfHolecards and action_call, based on "AKo" range.
