@@ -25,4 +25,4 @@ Upcoming updates:
 * Multi-tabling (recognizes the amount of tables played (1-6));
 * Support different sites (at least 888 and PokerStars);
 
-DISCLAIMER: I am not responsible for the use of r1h4rd5_pr3fl0p_b0t at real money tables! Using any kind of 3rd party software in online poker is strictly prohibited and can result in a permanent ban of your account as well as money confiscation. This software is intended for entertainment purposes only!
+DISCLAIMER: I am not responsible for the use of r1h4rd5_pr3fl0p_b0t at real money tables! Using any kind of 3rd party software in online poker is strictly prohibited and can result in a permanent ban of your account, as well as money confiscation. This software is intended for entertainment purposes only!
