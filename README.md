@@ -1,4 +1,8 @@
 # r1h4rd5_pr3fl0p_b0t
+Author: Rihards Belinskis
+
+Last update: October 12th, 2018.
+
 Welcome to r1h4rd5_pr3fl0p_b0t (888 poker)! An online poker bot, which analyzes holecards, from a given range and makes the preflop decision whether to fold or raise. The bot makes preflop game much smoother, allowing its users to enjoy being AFK while still participating in the game.
 
 The bot is limited to:
