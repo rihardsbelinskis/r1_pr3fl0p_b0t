@@ -26,7 +26,7 @@ Update history:
 * v1.9 - false-positive heart & diamond card recognition fixed.
 
 Upcoming updates:
-* Make new ranges, depending on ViewPriorAction
+* Support 9-max, 8-max and 4-max tables
 * Multi-tabling (recognizes the amount of tables played (1-6));
 * Support different sites (at least 888 and PokerStars);
 
